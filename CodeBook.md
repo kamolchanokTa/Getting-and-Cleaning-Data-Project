@@ -1,19 +1,14 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
 
-#Getting and Cleaning Data Project
+# Getting and Cleaning Data Project
 
-##Description Additional information about the variables, data and
+## Description Additional information about the variables, data and
 transformations used in the course project for the Johns Hopkins Getting
 and Cleaning Data course.
 
-##Source Data Data + Description can be found here [UCI Machine Learning
+## Source Data Data + Description can be found here [UCI Machine Learning
 Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
-##Data Set Information 
+## Data Set Information 
 The experiments have been carried out with a group
 of 30 volunteers within an age bracket of 19-48 years. Each person
 performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS,
@@ -35,7 +30,7 @@ frequency components, therefore a filter with 0.3 Hz cutoff frequency
 was used. From each window, a vector of features was obtained by
 calculating variables from the time and frequency domain.
 
-##Attribute Information 
+## Attribute Information 
 For each record in the dataset it is provided:
 
 - Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration. 
